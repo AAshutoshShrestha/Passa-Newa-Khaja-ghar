@@ -1,11 +1,11 @@
 # Passa-Newa-Khaja-ghar
 This is website template designed using Html,bootstrap & javascript with some Css.
-File contains:
-  -Index.html
-  -style.css
-  -script.js
-  -Asset(folder)
+File contains:<br/>
+    -Index.html<br/>
+    -style.css<br/>
+    -script.js<br/>
+    -Asset(folder)<br/>
  
 Suitable for Small restaurant,business.
 
-visit:https://aashutoshshrestha.github.io/Passa-Newa-Khaja-ghar/
+visit:https://aashutoshshrestha.github.io/khaja-web-Templates/
