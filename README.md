@@ -1,4 +1,11 @@
 # Passa-Newa-Khaja-ghar
-This the web template of Passa newa khaja ghar. Located at Teku,kathmandu,Nepal.
+This is website template designed using Html,bootstrap & javascript with some Css.
+File contains:
+  -Index.html
+  -style.css
+  -script.js
+  -Asset(folder)
+ 
+Suitable for Small restaurant,business.
 
-#visit:https://aashutoshshrestha.github.io/Passa-Newa-Khaja-ghar/
+visit:https://aashutoshshrestha.github.io/Passa-Newa-Khaja-ghar/
